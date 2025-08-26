@@ -33,7 +33,7 @@
                 <img src="Bilder/Merch/merch1.png" alt="Merch 1">
                 <div class="merch-info">
                     <h2>leer 1</h2>
-                    <p class="price">€35,00</p>
+                    <p class="price">€25,00</p>
                     <button>Kaufen</button>
                 </div>
             </div>
